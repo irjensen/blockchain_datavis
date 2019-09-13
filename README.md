@@ -1,0 +1,1 @@
+This iPython notebook was imported from its origin on Kaggle.com. To see this notebook as a Kaggle kernel follow [this link](https://www.kaggle.com/ijensen/exploration-of-the-ethereum-classic-blockchain)
